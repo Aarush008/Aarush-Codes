@@ -1,0 +1,6 @@
+E = {0,2,4,6,8}
+N = {1,2,3,4,5}
+print("Union is: ",E|N)
+print("Intersection is :",E&N)
+print("Difference is: ",E-N)
+print("Symmetrical Difference is: ",E^N)
